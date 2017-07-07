@@ -5,7 +5,9 @@ ListenOnRepeat is a website that I often use to listen to Youtube videos on loop
 
 Functionalities:
 - Has range of which you can specify the portion of the video to loop
-- Has youtube search built in (so you dont have to go to Youtube first, copy the Youtube URL and come back)
+- Has youtube search built in (so you dont have to go to Youtube first, copy the Youtube URL and come back) -- using Google Youtube API
 - Loop the video endlessly
 
 Live demo available at: https://obedtandadjaja.github.io/youtube_on_repeat.html
+
+Time developing: 5 hours
